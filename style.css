@@ -1,0 +1,43 @@
+* {
+    background-color: rgb(251, 219, 178);
+}
+h1 {
+    color: rgb(3, 126, 126);
+}
+h2 {
+    font-style: italic;
+    color: blue;
+}
+table {
+    margin: auto;
+    border: 100px black;
+    border-collapse: collapse;
+}
+td, td {
+    text-align: center;
+}
+th{
+    background-color:rgb(56, 248, 248);
+color: rgb(255, 0, 0);
+}
+tr:nth-child(even) td{
+    background-color:rgb(136, 115, 231);
+    color: White;
+}
+tr:nth-child(odd) td{
+    background-color:rgb(57, 85, 111);
+color: white;
+}
+#first {
+    text-align: center;
+    color: #0000ff;
+}
+#forgot {
+    text-align: center;
+    color: #0000ff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#forgot:hover {
+color: darkblue;
+}
