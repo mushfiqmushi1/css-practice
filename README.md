@@ -1,5 +1,5 @@
 In this project, I learned basic CSS integrate with html code. 
-some of tag I learned:
+some of steps I learned:
 1. background color
 2. font color
 3. table header color
